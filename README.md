@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Sample_projects
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
@@ -64,3 +65,6 @@ samples
 =======
 # Project_1
 >>>>>>> origin/main
+=======
+# Deep_learning
+>>>>>>> 825e18b9deacd14863955bf104bb2ef0def8d164
