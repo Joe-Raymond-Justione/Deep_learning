@@ -6,6 +6,8 @@ In this course project, myself and my colleagues from the master program develop
 
 ![Mannual_Inspection_gif](https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/59132310-dd24-4838-9373-5c1a8407210a)
 
+
+
 Traditional manual inspections at GBP are time-consuming and error-prone, prompting the company to explore machine learning for more accurate and efficient defect detection.
 
 ![ML_inspection_gif](https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/25de6543-93d8-40d3-b308-dbab8f8fc3b6)
