@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 ### Predicting defects in Glass Bottle Manufacturing
 
 In this course project, myself and my colleagues from the master program developed a deep learning system to enhance the quality assurance (QA) processes in glass bottle manufacturing. Our project replicates a successful past project with a company we'll call Glass Before Plastic (GBP), which produces glass bottles on a large scale and relies heavily on QA to ensure defect-free products. 
@@ -55,6 +54,4 @@ The Model architechture, training, validation and evaluations are covered in the
  #### My team members who worked together in this project.
  - Jann Bitzer - s-jbitzer@ucp.pt
  - Niklas Müller - s-nimuller@ucp.pt
-=======
->>>>>>> 1c82dd75c7133edb3d0f87cef6ee70d7c39a6626
 
