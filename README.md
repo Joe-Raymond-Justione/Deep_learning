@@ -4,11 +4,24 @@
 
 In this course project, myself and my colleagues from the master program developed a deep learning system to enhance the quality assurance (QA) processes in glass bottle manufacturing. Our project replicates a successful past project with a company we'll call Glass Before Plastic (GBP), which produces glass bottles on a large scale and relies heavily on QA to ensure defect-free products. 
 
-![Mannual_Inspection_gif](https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/59132310-dd24-4838-9373-5c1a8407210a)
+
+
+<div align="center">
+  <a href="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/59132310-dd24-4838-9373-5c1a8407210a">
+    <img src="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/59132310-dd24-4838-9373-5c1a8407210a" width="500"/>
+  </a>
+</div>
+
+
+
 
 Traditional manual inspections at GBP are time-consuming and error-prone, prompting the company to explore machine learning for more accurate and efficient defect detection.
 
-![ML_inspection_gif](https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/25de6543-93d8-40d3-b308-dbab8f8fc3b6)
+<div align="center">
+  <a href="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/25de6543-93d8-40d3-b308-dbab8f8fc3b6">
+    <img src="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/25de6543-93d8-40d3-b308-dbab8f8fc3b6" width="500"/>
+  </a>
+</div>
 
 Our objective was to create a proof-of-concept system using a dataset provided by the company, comprising sensor measurements at various production stages. The project plan included data collection and preprocessing, followed by model development using deep learning principles. Finally, we built recurrent neural network (RNN) for predicting failure rates and classifying failures and compared its performance with the Feed forward Neural network.
 
