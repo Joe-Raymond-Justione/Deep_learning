@@ -8,7 +8,7 @@ In this course project, myself and my colleagues from the master program develop
 
 <div align="center">
   <a href="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/59132310-dd24-4838-9373-5c1a8407210a">
-    <img src="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/59132310-dd24-4838-9373-5c1a8407210a" width="500"/>
+    <img src="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/59132310-dd24-4838-9373-5c1a8407210a" width="400"/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@ Traditional manual inspections at GBP are time-consuming and error-prone, prompt
 
 <div align="center">
   <a href="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/25de6543-93d8-40d3-b308-dbab8f8fc3b6">
-    <img src="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/25de6543-93d8-40d3-b308-dbab8f8fc3b6" width="500"/>
+    <img src="https://github.com/Joe-Raymond-Justione/Deep_learning/assets/171755523/25de6543-93d8-40d3-b308-dbab8f8fc3b6" width="400"/>
   </a>
 </div>
 
